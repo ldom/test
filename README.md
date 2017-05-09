@@ -14,7 +14,6 @@ Create a single-page web app that:
 
 - You MUST include installation instructions so that it can be run locally be other developers.
 - You MUST publish your solution as a public github repository.
-- You MUST include, at a minimum, a javascript component on the client-side portion of the application; the rest of the solution is up to you.
 - You SHOULD make extensive use of any React/Redux on frontend. For backend you can use any
 - You SHOULD take as little or as long as you need (but don't overdo it). You will not be evaluated on time to complete.
 - You SHOULD ask questions if anything specified here is not clear in any way.
@@ -33,8 +32,6 @@ You will be evaluated with the following in mind:
 - Does the solution run locally based on the provided instructions?
 - Does the solution make good use of tools/frameworks/libraries/APIs?
 - Does the implementation follow established best practices (design patterns, language usage, code formatting, etc..)?
-- Does the implementation use a sound design? What is the efficiency of the design? What happens at scale?
-- Does the solution go above/beyond from a visual/UI perspective? Is it nice to look at or does it make the eyes bleed?
 
 Happy coding!
 
